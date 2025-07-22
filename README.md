@@ -6,8 +6,7 @@
 
 ## 🎯 当前挑战：21天健身计划
 
-* **进度**：![Progress](https://progress-bar.dev/25/?title=Day+5/21) 
-    * *小提示：上面的进度条可以用 `https://progress-bar.dev/[百分比]` 动态生成。比如第5天就是 `5/21 ≈ 23%`，所以是 `...dev/23/`*
+* **进度**：![Progress](https://img.shields.io/badge/%F0%9F%9F%A2%F0%9F%9F%A2%F0%9F%9F%A2%E2%9A%AA%EF%B8%8F%E2%9A%AA%EF%B8%8F%E2%9A%AA%EF%B8%8F%E2%9A%AA%EF%B8%8F-Day%203%2F7-lightgrey) 
 * **详细日志**：[➡️ 点击查看挑战日志](./challenges/01_21-day-fitness/LOG.md)
 
 ---
